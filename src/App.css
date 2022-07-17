@@ -1,0 +1,9 @@
+.wrapper {
+    padding: 5px 20px;
+    background-color: rgb(243, 167, 243);
+}
+
+.wrapper fieldset {
+    margin: 20px 0;
+    background-color: rgb(248, 194, 239);
+}
